@@ -40,7 +40,7 @@ Technical Architecture:
 
 ![image](https://user-images.githubusercontent.com/113159759/194334343-13d8810c-912e-41b7-bee6-800b7221078c.png)
 
-Project Objectives: [Project Objectives.pdf](https://github.com/IBM-EPBL/IBM-Project-19802-1659706704)
+Project Objectives: [Project Objectives.pdf](https://github.com/IBM-EPBL/IBM-Project-19802-1659706704/blob/main/Project%20Objectives.pdf)
 
 Work with Watson Assistant
 
