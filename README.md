@@ -115,3 +115,9 @@ PROJECT DEVELOPMENT PHASE:
 [Sprint - 3.pdf](https://github.com/IBM-EPBL/IBM-Project-19802-1659706704/blob/main/Project%20Development%20Phase/Sprint%20-%203.pdf)
 
 [Sprint - 4.pdf](https://github.com/IBM-EPBL/IBM-Project-19802-1659706704/blob/main/Project%20Development%20Phase/Sprint%20-%204.pdf)
+
+PROJECT DOCUMENTATION:
+
+[project_document.pdf](https://drive.google.com/file/d/1XMIs0rMjs_GiCnZI6MH3hO_q-Ah3JOiI/view?usp=share_link)
+
+[project_demo_video.mp4](https://drive.google.com/file/d/1FQ40k3q0rG7qm-0C1VIa1nh5Y9Bic8l9/view?usp=share_link)
